@@ -1,0 +1,17 @@
+{
+  "name": "parse-i7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "iconv-lite": "^0.4.15",
+    "request": "^2.79.0"
+  }
+}
